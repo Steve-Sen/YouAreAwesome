@@ -14,6 +14,7 @@ struct Lab1: View {
                 .font(Font.largeTitle.weight(.light))
                 .foregroundStyle(.green)
             HStack {
+                // This is a modification
                 Image(systemName: "figure.american.football")
                     .resizable().scaledToFit()
                     .foregroundStyle(.blue)

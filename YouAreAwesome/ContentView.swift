@@ -5,6 +5,8 @@
 
 import SwiftUI
 
+// This is a comment
+
 struct ContentView: View {
     var body: some View {
         VStack {
@@ -25,3 +27,8 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+/*
+ This is a multi line
+ comment
+ */
